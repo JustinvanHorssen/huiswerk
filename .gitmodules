@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = https://gitlab.com/Dendrowen/framework.git
+[submodule "Library"]
+	path = Library
+	url = https://github.com/Razilom/Library.git
